@@ -18,7 +18,8 @@ This repository contains Python scripts submitted as part of coursework for INTR
 - Outputs all alignments and their scores.
 
 **Run:**
-python 2022205_Q1_HarshVishwakarma.py
+```bash
+python IQB_assignment_2.py
 
 ### 2. `2022205_Q2_HarshVishwakarma.py`
 
@@ -31,8 +32,8 @@ python 2022205_Q1_HarshVishwakarma.py
 - Outputs alignments and scores.
 
 **Run:**
-bash
-python 2022205_Q2_HarshVishwakarma.py
+```bash
+python IQB_assignment_2.py
 
 ## 3. `IQB_assignment_2.py`
 
@@ -49,7 +50,7 @@ python 2022205_Q2_HarshVishwakarma.py
 - Provides a final annotated sequence indicating secondary structural regions.
 
 **Run:**
-bash
+```bash
 python IQB_assignment_2.py
 
 
