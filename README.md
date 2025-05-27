@@ -20,6 +20,7 @@ This repository contains Python scripts submitted as part of coursework for INTR
 **Run:**
 ```bash
 python IQB_assignment_2.py
+```
 
 ### 2. `2022205_Q2_HarshVishwakarma.py`
 
@@ -34,6 +35,7 @@ python IQB_assignment_2.py
 **Run:**
 ```bash
 python IQB_assignment_2.py
+```
 
 ## 3. `IQB_assignment_2.py`
 
@@ -52,5 +54,6 @@ python IQB_assignment_2.py
 **Run:**
 ```bash
 python IQB_assignment_2.py
+```
 
 
